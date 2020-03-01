@@ -1,0 +1,405 @@
+{
+    
+    "454626": {
+        "adult":false,
+        "backdrop_path":"/qonBhlm0UjuKX2sH7e73pnG0454.jpg",
+        "belongs_to_collection":null,
+        "budget":90000000,
+        "genres":[
+            {"id":28,"name":"Action"},
+            {"id":878,"name":"Science Fiction"},
+            {"id":35,"name":"Comedy"},
+            {"id":10751,"name":"Family"}
+        ],
+        "homepage":"",
+        "id":454626,
+        "imdb_id":"tt3794354",
+        "original_language":"en",
+        "original_title":"Sonic the Hedgehog",
+        "overview":"Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgehog tells the story of the world’s speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination.",
+        "popularity":285.524,
+        "poster_path":"/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+        "production_companies":[
+            {
+                "id":333,
+                "logo_path":"/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+                "name":"Original Film",
+                "origin_country":"US"
+            },
+            
+            {
+                "id":10644,
+                "logo_path":"/ocLZIdYJBppuCt1rhYEb2jbpt5F.png",
+                "name":"Blur Studios",
+                "origin_country":"US"
+            },
+            
+            {
+                "id":77884,
+                "logo_path":"/dP2lxVNctD5Cried0IWVqgrO2o9.png",
+                "name":"Marza Animation Planet",
+                "origin_country":"JP"
+            },
+            
+            {
+                "id":4,
+                "logo_path":"/fycMZt242LVjagMByZOLUGbCvv3.png",
+                "name":"Paramount",
+                "origin_country":"US"
+            },
+            
+            {
+                "id":113750,
+                "logo_path":"/A3QVZ9Ah0yI2d2GiXUFpdlbTgyr.png",
+                "name":"SEGA",
+                "origin_country":"JP"
+            }],
+            
+            "production_countries":[
+                {"iso_3166_1":"JP","name":"Japan"},
+                {"iso_3166_1":"US","name":"United States of America"}],
+                
+                "release_date":"2020-02-12","revenue":203101671,"runtime":99,"spoken_languages":[
+                    {"iso_639_1":"en","name":"English"}],
+                "status":"Released",
+                "tagline":"A Whole New Speed of Hero",
+                "title":"Sonic the Hedgehog",
+                "video":false,
+                "vote_average":7.1,
+                "vote_count":485
+    },
+
+    "496243": {
+        "adult":false,
+        "backdrop_path":"/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+        "belongs_to_collection":null,
+        "budget":11363000,
+        "genres":[
+            {"id":35,"name":"Comedy"},
+            {"id":53,"name":"Thriller"},
+            {"id":18,"name":"Drama"}
+        ],
+        "homepage":"https://www.parasite-movie.com/",
+        "id":496243,
+        "imdb_id":"tt6751668",
+        "original_language":"ko",
+        "original_title":"기생충",
+        "overview":"All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+        "popularity":210.691,
+        "poster_path":"/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+        "production_companies":[
+            {
+                "id":7036,
+                "logo_path":"/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
+                "name":"CJ Entertainment",
+                "origin_country":"KR"
+            },
+            
+            {
+                "id":4399,
+                "logo_path":"/7bWmbWfxFNSGTCjLHkHn3UjspZS.png",
+                "name":"Barunson E&A",
+                "origin_country":"KR"
+            }],
+            
+            "production_countries":[{"iso_3166_1":"KR","name":"South Korea"}],
+            "release_date":"2019-05-30",
+            "revenue":201055038,
+            "runtime":132,
+            "spoken_languages":[{"iso_639_1":"ko","name":"한국어/조선말"}],
+            "status":"Released",
+            "tagline":"Act like you own the place.",
+            "title":"Parasite",
+            "video":false,
+            "vote_average":8.6,
+            "vote_count":4648
+    },
+
+    "570670": {
+        "adult":false,
+        "backdrop_path":"/uZMZyvarQuXLRqf3xdpdMqzdtjb.jpg",
+        "belongs_to_collection":null,
+        "budget":9000000,
+        "genres":[
+            {"id":27,"name":"Horror"},
+            {"id":878,"name":"Science Fiction"},
+            {"id":53,"name":"Thriller"},
+            {"id":9648,"name":"Mystery"}
+        ],
+        "homepage":"https://www.theinvisiblemanmovie.com/",
+        "id":570670,
+        "imdb_id":"tt1051906",
+        "original_language":"en",
+        "original_title":"The Invisible Man",
+        "overview":"When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.",
+        "popularity":175.504,
+        "poster_path":"/4U7hpTK0XTQBKT5X60bKmJd05ha.jpg",
+        "production_companies":[
+            {
+                "id":3172,
+                "logo_path":"/kDedjRZwO8uyFhuHamomOhN6fzG.png",
+                "name":"Blumhouse Productions",
+                "origin_country":"US"
+            },
+            
+            {
+                "id":33,
+                "logo_path":"/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+                "name":"Universal Pictures",
+                "origin_country":"US"
+            },
+            
+            {
+                "id":6748,
+                "logo_path":"/74qmkZFGFMbCsIKo2Dk62QVsUKf.png",
+                "name":"Goalpost Pictures",
+                "origin_country":"AU"
+            }],
+            
+                "production_countries":[
+                    {"iso_3166_1":"AU","name":"Australia"},
+                    {"iso_3166_1":"US","name":"United States of America"}],
+            
+                "release_date":"2020-02-26",
+                "revenue":0,
+                "runtime":124,
+                "spoken_languages":[{"iso_639_1":"en","name":"English"}],
+                "status":"Released",
+                "tagline":"What You Can't See Can Hurt You",
+                "title":"The Invisible Man",
+                "video":false,
+                "vote_average":7.6,
+                "vote_count":86
+    },
+
+    "495764": {
+        "adult":false,
+        "backdrop_path":"/uozb2VeD87YmhoUP1RrGWfzuCrr.jpg",
+        "belongs_to_collection":null,
+        "budget":75000000,
+        "genres":[
+            {"id":28,"name":"Action"},
+            {"id":80,"name":"Crime"},
+            {"id":35,"name":"Comedy"}
+        ],
+        "homepage":"http://www.birdsofpreymovie.net/",
+        "id":495764,
+        "imdb_id":"tt7713068",
+        "original_language":"en",
+        "original_title":"Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+        "overview":"After her breakup with the Joker, Harley Quinn joins forces with singer Black Canary, assassin Huntress, and police detective Renee Montoya to help a young girl named Cassandra, who had a hit placed on her after she stole a rare diamond from crime lord Roman Sionis.",
+        "popularity":153.054,
+        "poster_path":"/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+        "production_companies":[
+            {
+                "id":9993,
+                "logo_path":"/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+                "name":"DC Entertainment",
+                "origin_country":"US"
+            },
+            
+            {
+                "id":82968,
+                "logo_path":null,
+                "name":"LuckyChap Entertainment",
+                "origin_country":"GB"
+            },
+            
+            {
+                "id":103462,
+                "logo_path":null,
+                "name":"Kroll & Co Entertainment",
+                "origin_country":"US"
+            },
+            
+            {
+                "id":174,
+                "logo_path":"/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+                "name":"Warner Bros. Pictures",
+                "origin_country":"US"
+            },
+            
+            {
+                "id":429,
+                "logo_path":"/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+                "name":"DC Comics",
+                "origin_country":"US"
+            },
+            
+            {
+                "id":128064,
+                "logo_path":null,
+                "name":"DC Films",
+                "origin_country":"US"
+            },
+            
+            {
+                "id":101831,
+                "logo_path":"/l6x0SkRVp9ksGgRhboZbkI9w7PM.png",
+                "name":"Clubhouse Pictures",
+                "origin_country":"US"
+            }],
+            
+            "production_countries":[{"iso_3166_1":"US","name":"United States of America"}],
+            "release_date":"2020-02-05",
+            "revenue":72320000,
+            "runtime":109,
+            "spoken_languages":[{"iso_639_1":"en","name":"English"}],
+            "status":"Released",
+            "tagline":"Mind Over Mayhem",
+            "title":"Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+            "video":false,
+            "vote_average":6.8,
+            "vote_count":884
+    },
+
+    "458897": {
+        "adult":false,
+        "backdrop_path":"/a0xTB1vBxMGt6LGG4N7k1wO9lfL.jpg",
+        "belongs_to_collection":null,
+        "budget":48000000,
+        "genres":[
+            {"id":28,"name":"Action"},
+            {"id":12,"name":"Adventure"},
+            {"id":35,"name":"Comedy"}
+        ],
+        "homepage":"https://www.charliesangels.movie/",
+        "id":458897,
+        "imdb_id":"tt5033998",
+        "original_language":"en",
+        "original_title":"Charlie's Angels",
+        "overview":"When a systems engineer blows the whistle on a dangerous technology, Charlie's Angels from across the globe are called into action, putting their lives on the line to protect society.",
+        "popularity":144.774,
+        "poster_path":"/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg",
+        "production_companies":[
+            {
+                "id":34,
+                "logo_path":"/GagSvqWlyPdkFHMfQ3pNq6ix9P.png",
+                "name":"Sony Pictures",
+                "origin_country":"US"
+            },
+            
+            {
+                "id":5,
+                "logo_path":"/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+                "name":"Columbia Pictures",
+                "origin_country":"US"
+            },
+            
+            {
+                "id":12365,
+                "logo_path":null,
+                "name":"Brownstone Productions",
+                "origin_country":"US"
+            },
+            
+            {
+                "id":84792,
+                "logo_path":null,
+                "name":"2.0 Entertainment",
+                "origin_country":"US"
+            }],
+            
+            "production_countries":[{"iso_3166_1":"US","name":"United States of America"}],
+            "release_date":"2019-11-14",
+            "revenue":70960003,
+            "runtime":118,
+            "spoken_languages":[{"iso_639_1":"en","name":"English"}],
+            "status":"Released",
+            "tagline":"Unseen. Undivided. Unstoppable.",
+            "title":"Charlie's Angels",
+            "video":false,
+            "vote_average":6.4,
+            "vote_count":528
+    },
+
+    "475557": {
+        "adult":false,
+        "backdrop_path":"/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+        "belongs_to_collection":null,
+        "budget":55000000,
+        "genres":[
+            {"id":80,"name":"Crime"},
+            {"id":53,"name":"Thriller"},
+            {"id":18,"name":"Drama"}
+        ],
+        "homepage":"http://www.jokermovie.net/",
+        "id":475557,
+        "imdb_id":"tt7286456",
+        "original_language":"en",
+        "original_title":"Joker",
+        "overview":"During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+        "popularity":118.317,
+        "poster_path":"/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+        "production_companies":[
+            {
+                "id":9993,
+                "logo_path":"/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+                "name":"DC Entertainment",
+                "origin_country":"US"
+            },
+            
+            {
+                "id":174,
+                "logo_path":"/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+                "name":"Warner Bros. Pictures",
+                "origin_country":"US"
+            },
+            
+            {
+                "id":429,
+                "logo_path":"/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+                "name":"DC Comics",
+                "origin_country":"US"
+            },
+            
+            {
+                "id":83036,
+                "logo_path":null,
+                "name":"Joint Effort",
+                "origin_country":"US"
+            },
+            
+            {
+                "id":79,
+                "logo_path":"/tpFpsqbleCzEE2p5EgvUq6ozfCA.png",
+                "name":"Village Roadshow Pictures",
+                "origin_country":"US"
+            },
+            
+            {
+                "id":13240,
+                "logo_path":"/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+                "name":"Bron Studios",
+                "origin_country":"CA"
+            },
+            
+            {
+                "id":53152,
+                "logo_path":"/shr6ZcOMI3WFQo1q6J4E4yk0PZe.png",
+                "name":"Creative Wealth Media Finance",
+                "origin_country":"CA"
+            },
+            
+            {
+                "id":128064,
+                "logo_path":null,
+                "name":"DC Films",
+                "origin_country":"US"
+            }],
+            "production_countries":[
+                {"iso_3166_1":"CA","name":"Canada"},
+                {"iso_3166_1":"US","name":"United States of America"}
+            ],
+            "release_date":"2019-10-02",
+            "revenue":1073698955,
+            "runtime":122,
+            "spoken_languages":[{"iso_639_1":"en","name":"English"}],
+            "status":"Released",
+            "tagline":"Put on a happy face.",
+            "title":"Joker",
+            "video":false,
+            "vote_average":8.2,
+            "vote_count":9480
+    }
+}

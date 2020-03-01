@@ -1,0 +1,102 @@
+[
+    {
+        "popularity":285.524,
+        "vote_count":478,
+        "video":false,
+        "poster_path":"\/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+        "id":454626,
+        "adult":false,
+        "backdrop_path":"\/qonBhlm0UjuKX2sH7e73pnG0454.jpg",
+        "original_language":"en",
+        "original_title":"Sonic the Hedgehog",
+        "genre_ids":[28,35,878,10751],
+        "title":"Sonic the Hedgehog",
+        "vote_average":7.1,
+        "overview":"Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgehog tells the story of the world’s speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination.",
+        "release_date":"2020-02-12"
+    },
+    
+    {
+        "popularity":210.691,
+        "vote_count":4616,
+        "video":false,
+        "poster_path":"\/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+        "id":496243,
+        "adult":false,
+        "backdrop_path":"\/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+        "original_language":"ko",
+        "original_title":"기생충",
+        "genre_ids":[35,18,53],
+        "title":"Parasite",
+        "vote_average":8.6,
+        "overview":"All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+        "release_date":"2019-05-30"
+    },
+    
+    {
+        "popularity":175.504,
+        "vote_count":69,
+        "video":false,
+        "poster_path":"\/4U7hpTK0XTQBKT5X60bKmJd05ha.jpg",
+        "id":570670,
+        "adult":false,
+        "backdrop_path":"\/uZMZyvarQuXLRqf3xdpdMqzdtjb.jpg",
+        "original_language":"en",
+        "original_title":"The Invisible Man",
+        "genre_ids":[27,9648,878,53],
+        "title":"The Invisible Man",
+        "vote_average":7.6,
+        "overview":"When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.",
+        "release_date":"2020-02-26"
+    },
+    
+    {
+        "popularity":153.054,
+        "vote_count":875,
+        "video":false,
+        "poster_path":"\/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+        "id":495764,
+        "adult":false,
+        "backdrop_path":"\/uozb2VeD87YmhoUP1RrGWfzuCrr.jpg",
+        "original_language":"en",
+        "original_title":"Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+        "genre_ids":[28,35,80],
+        "title":"Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+        "vote_average":6.8,"overview":"After her breakup with the Joker, Harley Quinn joins forces with singer Black Canary, assassin Huntress, and police detective Renee Montoya to help a young girl named Cassandra, who had a hit placed on her after she stole a rare diamond from crime lord Roman Sionis.",
+        "release_date":"2020-02-05"
+    },
+    
+    {
+        "popularity":144.774,
+        "vote_count":514,
+        "video":false,
+        "poster_path":"\/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg",
+        "id":458897,
+        "adult":false,
+        "backdrop_path":"\/a0xTB1vBxMGt6LGG4N7k1wO9lfL.jpg",
+        "original_language":"en",
+        "original_title":"Charlie's Angels",
+        "genre_ids":[28,12,35],
+        "title":"Charlie's Angels",
+        "vote_average":6.4,
+        "overview":"When a systems engineer blows the whistle on a dangerous technology, Charlie's Angels from across the globe are called into action, putting their lives on the line to protect society.",
+        "release_date":"2019-11-14"
+    },
+    
+    {
+        "popularity":118.317,
+        "vote_count":9467,
+        "video":false,
+        "poster_path":"\/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+        "id":475557,
+        "adult":false,
+        "backdrop_path":"\/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg",
+        "original_language":"en",
+        "original_title":"Joker",
+        "genre_ids":[80,18,53],
+        "title":"Joker",
+        "vote_average":8.2,
+        "overview":"During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+        "release_date":"2019-10-02"
+    }
+]
