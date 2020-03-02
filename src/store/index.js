@@ -7,6 +7,7 @@ Vue.use(Vuex)
 export default new Vuex.Store({
   state: {
     movies: [],
+    movieDetails: {},
   },
 
   // Uygulamanın her yerinde kullanabilmek için mapgetters kullanırız.
@@ -24,15 +25,28 @@ export default new Vuex.Store({
       state.movies = movies;
     },
 
+    setMovieDetails(state, payload) {
+      const { id, data } = payload;
+      state.movieDetails[id] = data;
+    }
+
   },
   actions: {
     // context vuex'i simgeliyor diyebiliriz.
     // snapshot firebase objelerini belirtir, bu sayede objenin firebase old. biliriz.
+    // snapshot.val() obje olarak almamızı sağlar, firebase yapısı yüzünden.
     fetchMovies(context){
       return service.fetchMovies().then(snapshot => {
         context.commit('setMovies', snapshot.val())
       });
     },
+
+    fetchMovieDetails(context, id){
+      return service.fetchMovieDetails(id).then(snapshot => {
+        context.commit('setMovieDetails',{id: id, data: snapshot.val()});
+      });
+    },
+
   },
   modules: {
   }

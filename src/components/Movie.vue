@@ -44,10 +44,8 @@ export default {
 </script>
 
 <style scoped>
-    /* .card {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-
-    } */
+    .card {
+        max-width: 200px;
+        float: left;
+    }
 </style>
