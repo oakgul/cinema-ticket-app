@@ -15,6 +15,11 @@
                        <div>Average Rating: {{movie.vote_average.toFixed(1)}}</div>
                        <div>Production company: {{movie.production_companies[0].name}}</div>
                        <div>Release Date: {{movie.release_date}}</div>
+                       <h4>Trailers</h4>
+                       <!-- <a :href="trailer.url" v-for="trailer in trailers" :key="trailer.id class="trailer" target="_blank">
+                            <img  :src="trailer.thumbnail">
+                       </a> -->
+                       <a :href="ticketsPath" class="btn btn-success">Get Tickets</a>
                    </div>
                </div>
                
@@ -60,6 +65,24 @@ export default {
 
             return `${hours}h ${minutes}m`;
         },
+
+        ticketsPath() {
+            return `/movie/${this.movieId}/tickets`;
+        },
+
+        // trailers() {
+        //     const trailers = [];
+        //     this.movie.videos.results.forEach((video) => {
+        //         if(video.type === 'Trailer'){
+        //             trailers.push({
+        //             thumbnail: `https://i.ytimg.com/vi/${video.key}/sddefault.jpg`,
+        //                   url: `https://youtube.com/watch?v=${video.key}`,
+        //             });
+        //         }
+                
+        //     });
+        //     return trailers;
+        // },
     },
 
     components : {
@@ -73,5 +96,18 @@ export default {
 <style scoped>
     .details {
         color: white;
+    }
+
+    .trailer {
+        width: 150px;
+        height: 110px;
+        display: block;
+        float: left;
+        margin-right: 20px;
+    }
+
+    .trailer img {
+        width: 100%;
+        height: 100%;
     }
 </style>
